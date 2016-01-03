@@ -1,0 +1,30 @@
+@font-face{
+	font-family: Header;
+	src: url(zopacyr.ttf);
+}
+
+body {
+	background: url(giftly.png) repeat;
+}
+
+h1 {
+	font-family: Header;
+}
+
+.content {
+	margin-top: 50px;
+	text-align: center;
+}
+
+.content-top h1 {
+	font-size: 80pt;
+}
+
+.content-bottom {
+	margin-top: 50px;
+}
+
+.content-bottom button {
+	font-size: 15pt;
+	margin-left: 5px;
+}
