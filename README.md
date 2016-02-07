@@ -1,5 +1,5 @@
 #DT
-Clickjacking example, steal clicks from vk.com, deanonymize visitors
+Clickjacking example, steals clicks from vk.com, deanonymize visitors
 
 #How to:
 1. Follow: http://vk.com/dev/Like
@@ -7,4 +7,4 @@ Clickjacking example, steal clicks from vk.com, deanonymize visitors
 3. Copy AppID and insert one inside dt_engine.js
 
 #Demo:
-alx69.com/sandbox/more/
+http://alx69.com/sandbox/more/
