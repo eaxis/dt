@@ -4,8 +4,8 @@
 		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-		<link rel="stylesheet" href="mood_styles.css">
-		<script src="mood_script.js"></script>
+		<link rel="stylesheet" href="styles/mood_styles.css">
+		<script src="scripts/mood_script.js"></script>
 	</head>
 
 	<body>
